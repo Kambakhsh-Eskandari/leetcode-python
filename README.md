@@ -2,4 +2,4 @@
 
 My solutions for leetcode questions.
 
-My plan is to pratcite at least one problem per day.
+My plan is to pratice at least one problem per day.
